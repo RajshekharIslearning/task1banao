@@ -1,0 +1,14 @@
+.venv/
+venv/
+venv_fresh/
+__pycache__/
+.pytest_cache/
+.pytest_cache_new/
+pytest-cache-files-*/
+out/
+data/
+.vscode/
+docs/Emailthread.txt
+docs/Support-policy.txt
+docs/DATA_README.txt
+*.pyc
